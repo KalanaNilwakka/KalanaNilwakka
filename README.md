@@ -2,14 +2,17 @@
 <h3 align="center">Computer Science Undergraduate | Developer | Tech Enthusiast | IEEE Volunteer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kalananilwakka/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
+  <a href="https://linkedin.com/in/kalana-nilwakka" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalana-nilwakka" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/kalananilwakka" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge">
+  <a href="https://www.facebook.com/kalana.nilwakka" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalana.nilwakka" height="30" width="40" />
   </a>
-  <a href="mailto:kalananilwakka@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge">
+  <a href="https://www.instagram.com/k._d__" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k._d__" height="30" width="40" />
+  </a>
+  <a href="mailto:kalanad0507@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="30" width="40"/>
   </a>
 </p>
 
@@ -39,29 +42,9 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalana-nilwakka&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalana-nilwakka&layout=compact&theme=radical" />
-</p>
-
----
-
-### 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kalana-nilwakka&theme=react-dark&area=true&hide_border=true" />
-</p>
-
----
-
-### 📬 Connect with Me
-
-- 💼 LinkedIn: [linkedin.com/in/kalananilwakka](https://linkedin.com/in/kalananilwakka)
-- 📘 Facebook: [facebook.com/kalananilwakka](https://www.facebook.com/kalana.nilwakka)
-- 📸 Instagram: [instagram.com/kalananilwakka](https://www.instagram.com/k._d__)
-- 📧 Email: [kalananilwakka@gmail.com](mailto:kalanad0507@gmail.com)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KalanaNilwakka&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KalanaNilwakka&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
