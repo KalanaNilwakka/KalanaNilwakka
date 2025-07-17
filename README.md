@@ -18,7 +18,6 @@
 ### 🙋‍♂️ About Me
 
 - 🎓 I'm a Computer Science Undergraduate at the **University of Kelaniya**  
-- 🛡️ Co-chairperson of **CyberZee'24** | Program Coordinator - **IEEE Day 2024**  
 - 🧠 Passionate about **Cybersecurity**, **AI**, and **Community Building**
 - ✨ Member of **IEEE**, **ISACA**, and various student-led tech initiatives
 - 💬 Ask me about `Java`, `Spring Boot`, `Python`, `C`, and `Cybersecurity Topics`
@@ -43,16 +42,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalana-nilwakka&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalana-nilwakka&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-### 🔥 GitHub Streaks
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kalana-nilwakka&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kalana-nilwakka&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalana-nilwakka&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -60,7 +51,7 @@
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/api?username=kalana-nilwakka&bg_color=1f1f1f&color=00e6e6&line=00ffff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kalana-nilwakka&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
@@ -68,8 +59,9 @@
 ### 📬 Connect with Me
 
 - 💼 LinkedIn: [linkedin.com/in/kalananilwakka](https://linkedin.com/in/kalananilwakka)
-- 🐦 Twitter/X: [twitter.com/kalananilwakka](https://twitter.com/kalananilwakka)
-- 📧 Email: [kalananilwakka@gmail.com](mailto:kalananilwakka@gmail.com)
+- 📘 Facebook: [facebook.com/kalananilwakka](https://www.facebook.com/kalana.nilwakka)
+- 📸 Instagram: [instagram.com/kalananilwakka](https://www.instagram.com/k._d__)
+- 📧 Email: [kalananilwakka@gmail.com](mailto:kalanad0507@gmail.com)
 
 ---
 
