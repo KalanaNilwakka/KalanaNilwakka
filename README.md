@@ -42,9 +42,23 @@
 
 ---
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KalanaNilwakka&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KalanaNilwakka&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kalananilwakka&theme=dark&show_icons=true&count_private=false" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kalananilwakka&theme=dark&hide_border=false" />
+  <br></br>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kalananilwakka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=50"/>
+  
+  </td>
+</tr>
+</table>
 
 ---
 
